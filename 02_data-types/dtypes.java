@@ -43,7 +43,7 @@ public class dtypes{
 
             // 2. Float: Two types : You should use a floating point type whenever you need a number with a decimal, such as 9.99 or 3.14515
 
-            
+
                 // (1): flaot and 2 (double) : The float and double data types can store fractional numbers. Note that you should end the value with an "f" for floats and "d" for doubles:
     
                 float fNum1 = 5.75f;
@@ -52,6 +52,13 @@ public class dtypes{
                 double fNum2 = 19.99d;
                 System.out.println(fNum2);
 
+
+        
+        // 4. Boolean : TRUE | FALSE 
+            boolean isJavaFun = true;
+            boolean isFishTasty = false;
+            System.out.println(isJavaFun);     // Outputs true
+            System.out.println(isFishTasty);   // Outputs false
 
     }
 }
