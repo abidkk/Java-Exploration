@@ -9,5 +9,11 @@ public class dtypes{
         System.out.println(myCourse);
         System.out.println(mySemester);
 
+        // 2 char : caharacter : a single letter in single quote
+        char myGrade = 'A';
+        char yourGrade = 'B';
+        System.out.println("My Grade:" + " " + myGrade );
+        System.out.println("Your Grade: " + yourGrade );
+
     }
 }
