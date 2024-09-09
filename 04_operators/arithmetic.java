@@ -30,7 +30,6 @@ public class arithmetic{
         ++n1;
         System.out.println(n1); // 3
 
-
         // 7. Decrement --
         int n2 = 5;
         --n2;
