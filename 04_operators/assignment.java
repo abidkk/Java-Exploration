@@ -27,10 +27,6 @@ public class assignment{
         // 6. modulus & assign 
         v1%=5;
         System.err.println(v1); // 4
-
-        
-        
-        // 7. 
     }
 
 }
