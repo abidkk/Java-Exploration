@@ -1,7 +1,11 @@
 public class hello {
-    public static void main (String[] args){
-        System.out.println("Hello Java");  // line break with println
+    public static void main (String args[] ) {
+        System.out.println("Hello Java 2");  // line break with println
         System.out.print("Hello World! "); // no line break : print
-        System.out.println("Hi, Abid Khokhar");  
+        System.out.println("Hi, Murad ali") ;
+        System.err.println("Error");
     }
 }
+
+
+
